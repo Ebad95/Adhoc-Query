@@ -1,3 +1,11 @@
+## Adhoc-Query-Builder
+
+project of Data Modelling Course CS-605
+
+# Objective
+
+A naive person can query the database without knowing SQL
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
